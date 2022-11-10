@@ -1,2 +1,8 @@
 print("hi")
 print("his")
+print("his")
+print("his")
+print("his")
+print("his")
+print("his")
+print("his")
